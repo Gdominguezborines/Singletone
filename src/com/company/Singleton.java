@@ -1,7 +1,8 @@
 package com.company;
 
-import com.sun.source.tree.UsesTree;
-
+/**
+ * Solo una instancia
+ */
 public class Singleton {
-
+    private Singleton() {}
 }
