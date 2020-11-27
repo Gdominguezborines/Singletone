@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Proyecto para aprender a hacer un Singleton");
 
         //intento instanciar un objeto con el constructor privado
-          Singleton miUnicaInstancia = new Singleton();
+         // Singleton miUnicaInstancia = new Singleton();
 
         // esto es un error
         // Singleton miUnicaInstancia = new Singleton();

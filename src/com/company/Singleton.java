@@ -21,8 +21,7 @@ public class Singleton {
 
     private Singleton() {}
 
-    private Singleton() {
-    }
+
 
     /**
      * Segun exista o no ya el objeto lo instanciamos o cambiamos los datos
